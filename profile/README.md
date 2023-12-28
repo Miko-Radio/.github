@@ -1,6 +1,6 @@
 <div align="center">
   <strong>
-      <p>Mewwme's | Listen to your favourite music on discord with your friends!</p>
+      <p>Miko Radio's | Listen to your favourite music on discord with your friends!</p>
     <p>The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.</p>
   </strong>
 <h3 align="center">
@@ -15,7 +15,8 @@
 ## Features
 - Interaction support.
 - Configurable, and easy to use.
-- Basic music and 24/7.
+- Music 24/7.
+- Lofi & Radio
 - Support Youtube, Spotify, Soundcloud and etc
 
 Visit [Miko Radio](https://mikoradio.com/) to learn more!
