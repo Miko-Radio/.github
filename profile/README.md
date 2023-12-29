@@ -1,6 +1,6 @@
 <div align="center">
   <strong>
-      <p>Miko Radio's | Listen to your favourite music on discord with your friends!</p>
+      <p>Miko Radio's | Listen to your favorite music on discord with your friends!</p>
     <p>The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.</p>
   </strong>
 <h3 align="center">
