@@ -9,7 +9,7 @@
 </div>
 
 ## Join Our Discord Server
-[![DiscordBanner](https://i.imgur.com/uZERC5u.png)](https://discord.gg/R5v7CXzWpa)
+[![DiscordBanner](https://i.imgur.com/uZERC5u.png)](https://discord.gg/R5v7CXzWpa )
 
 
 
