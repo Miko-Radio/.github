@@ -9,7 +9,7 @@
 </div>
 
 ## Join Server Discord
-  [![DiscordBanner](https://invidget.switchblade.xyz/YZR9YF96Fs)](https://discord.gg/YZR9YF96Fs)
+  [![DiscordBanner](https://invidget.switchblade.xyz/YZR9YF96Fs)](https://discord.gg/R5v7CXzWpa)
 
 
 ## Features
