@@ -8,8 +8,10 @@
 </h3>
 </div>
 
-## Join Server Discord
-  [![DiscordBanner](https://invidget.switchblade.xyz/YZR9YF96Fs)](https://discord.gg/R5v7CXzWpa)
+## Join Our Discord Server
+[![DiscordBanner](https://i.imgur.com/uZERC5u.png)](https://discord.gg/R5v7CXzWpa)
+
+
 
 
 ## Features
